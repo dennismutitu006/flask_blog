@@ -1,2 +1,2 @@
-class config:
+class Config:
   DEBUG = True
